@@ -1,10 +1,10 @@
-### Desenvolvedor em desenvolvimento
-<div style="display: inline_block">
+<!--### Desenvolvedor em desenvolvimento
+ <div style="display: inline_block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="75px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="75px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="75px"/>
-</div> 
+</div> --> 
 <br>
 <div>
 <a href="https://github.com/sobreirav">
