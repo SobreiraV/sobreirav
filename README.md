@@ -12,9 +12,9 @@ MongoDB, Postman, Figma, Canva, Trello, Creative Cloud, Photoshop e Ilustrator
 
 ---
  
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SobreiraV&layout=compact&langs_count=7)](https://github.com/sobreirav)
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SobreiraV&theme=swift&layout=compact&langs_count=7)](https://github.com/sobreirav)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SobreiraV&show_icons=true&count_private=true)](https://github.com/sobreirav)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SobreiraV&theme=swift&show_icons=true&count_private=true)](https://github.com/sobreirav)
  
 </div>
   
