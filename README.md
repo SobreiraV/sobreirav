@@ -5,10 +5,10 @@
 ![](./ola2.gif)
 
 ### Tecnologias:
-HTML5, CSS3, Bootstrap 5, Javascript, React, Node.JS, Express e API REST
+HTML5, CSS3, Bootstrap 5, Javascript, React, Node.JS, Express, NoSQL, SQL e API REST
 
 ### Ferramentas:
-MongoDB, Postman, Figma, Canva, Trello, Creative Cloud, Photoshop e Ilustrator
+MongoDB, MySQL, Postman, Figma, Canva, Trello, Creative Cloud, Photoshop e Ilustrator
 
 ---
  
