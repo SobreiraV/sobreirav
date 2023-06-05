@@ -1,21 +1,19 @@
-# Desenvolvedor em Desenvolvimento
+
+- 🎓 Bacharel em Administração
+- 📚 Engenharia de Computadores
+- 📚 Pós em Informática na Educação
+- 📚 Entusiasta em Cibersegurança
 
 <div align="center">
 
-![](./ola2.gif)
-
-### Tecnologias:
-HTML5, CSS3, Bootstrap 5, Javascript, React, Node.JS, Express, NoSQL, SQL e API REST
-
-### Ferramentas:
-MongoDB, MySQL, Postman, Figma, Canva, Trello, Creative Cloud, Photoshop e Ilustrator
-
----
+<img src="https://tryhackme-badges.s3.amazonaws.com/Donronron.png" alt="TryHackMe">
+ 
+🟢🟡
  
 [![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SobreiraV&theme=swift&layout=compact&langs_count=7)](https://github.com/sobreirav)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=SobreiraV&theme=swift&show_icons=true&count_private=true)](https://github.com/sobreirav)
- 
+
 </div>
   
 <!--
