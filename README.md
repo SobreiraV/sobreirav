@@ -1,8 +1,7 @@
 
 - 🎓 Bacharel em Administração
 - 📚 Engenharia de Computadores
-- 📚 Pós em Informática na Educação
-- 📚 Entusiasta em Cibersegurança
+- 📚 Pós em Segurança da Informação e Cibersegurança com IA
 
 <div align="center">
  
